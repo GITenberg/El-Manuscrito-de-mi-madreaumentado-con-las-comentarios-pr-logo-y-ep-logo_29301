@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '43375'
     url: http://www.gutenberg.org/2009/agents/43375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29301#El-Manuscrito-de-mi-madreaumentado-con-las-comentarios-pr-logo-y-ep-logo
 gutenberg_issued: '2009-07-03'
 gutenberg_type: Text
 identifiers:
