@@ -1,0 +1,48 @@
+_repo: El-Manuscrito-de-mi-madreaumentado-con-las-comentarios-pr-logo-y-ep-logo_29301
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - De Lamartine, Alphonse
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    - Lamartine, Alphonse Marie Louis de
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+covers:
+- cover_type: archival
+  image_path: 29301-h/images/cover.png
+creator:
+  author:
+    agent_name: Lamartine, Alix de
+    aliases:
+    - De Lamartine, Alix
+    - Lamartine de Pratz, Alix de
+    - Des Roys, Alix
+    - Desroys, Alix
+    birthdate: 1766
+    deathdate: 1829
+    gutenberg_agent_id: '43375'
+    url: http://www.gutenberg.org/2009/agents/43375
+description: ''
+gutenberg_issued: '2009-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29301'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century'
+- !lcsh 'Lamartine, Alix de, 1766-1829 -- Diaries'
+title: 'El Manuscrito de mi madre
+
+  aumentado con las comentarios, prólogo y epílogo'
+url: http://www.gutenberg.org/ebooks/29301
